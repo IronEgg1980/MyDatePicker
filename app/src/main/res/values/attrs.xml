@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyDatePicker">
+        <attr name="dateTextNormalColor" format="color"/>
+        <attr name="dateTextSelectedColor" format="color"/>
+        <attr name="dateNormalBG" format="color"/>
+        <attr name="dateSelectedBG" format="color"/>
+        <attr name="dateSelectedDrawable" format="reference"/>
+    </declare-styleable>
+</resources>
